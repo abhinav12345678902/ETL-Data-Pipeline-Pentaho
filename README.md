@@ -28,8 +28,23 @@ The transformed data will be loaded into SQL Server where an ER diagram will be 
 
 ![ETL Pipeline Workflow](Screenshot%202026-03-15%20150400.png)
 
+## Project Structure
+
+ETL-Data-Pipeline-Pentaho
+│
+├── Internship Transformation.ktr
+├── README.md
+├── Screenshot.png
+
 ## Tools Used
 Pentaho (Spoon)  
 SQL (MySQL)  
 Data Cleaning  
 ETL Pipelines
+
+## Future Work
+
+- Load transformed data into SQL Server
+- Design ER Diagram for database schema
+- Perform analytical SQL queries
+- Build Power BI dashboard for insights
