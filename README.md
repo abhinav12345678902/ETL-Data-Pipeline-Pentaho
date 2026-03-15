@@ -24,6 +24,10 @@ This project demonstrates an end-to-end ETL pipeline built using Pentaho Data In
 ## Next Steps
 The transformed data will be loaded into SQL Server where an ER diagram will be created and analytical SQL queries will be performed.
 
+## ETL Pipeline Workflow
+
+![ETL Pipeline Workflow](Screenshot%202026-03-15%20150400.png)
+
 ## Tools Used
 Pentaho (Spoon)  
 SQL (MySQL)  
