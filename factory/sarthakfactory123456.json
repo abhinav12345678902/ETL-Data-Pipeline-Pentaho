@@ -1,0 +1,9 @@
+{
+	"name": "sarthakfactory123456",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9c78bd82-5cb9-464a-aaa2-bbb8d99f526a",
+		"tenantId": "cfbc1857-01d8-41ab-b7d4-daa0ca1403f7"
+	}
+}
